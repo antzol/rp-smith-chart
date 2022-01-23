@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="zoom_in">icons/zoom_in.png</file>
+        <file alias="zoom_out">icons/zoom_out.png</file>
+        <file alias="edit_page">icons/edit_page.png</file>
+    </qresource>
+    <qresource prefix="/components">
+        <file alias="Cparal">icons/Cparal.png</file>
+        <file alias="Cserial">icons/Cserial.png</file>
+        <file alias="Lparal">icons/Lparal.png</file>
+        <file alias="Lserial">icons/Lserial.png</file>
+        <file alias="Rparal">icons/Rparal.png</file>
+        <file alias="Rserial">icons/Rserial.png</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file alias="SmithChart">icons/chart.png</file>
+    </qresource>
+</RCC>

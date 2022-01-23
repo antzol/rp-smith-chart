@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/elements">
+        <file alias="inductor">svg/Inductor.svg</file>
+    </qresource>
+</RCC>
